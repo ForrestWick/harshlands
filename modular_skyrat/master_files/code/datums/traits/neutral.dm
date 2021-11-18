@@ -11,16 +11,6 @@
 	mob_trait = TRAIT_EXCITABLE
 	icon = "laugh-beam"
 
-/datum/quirk/ironass
-	name = "Iron Ass"
-	desc = "Your ass is incredibly firm, so firm infact that anyone slapping it will suffer grave injuries."
-	gain_text = span_notice("Your ass feels solid!")
-	lose_text = span_notice("Your ass doesn't feel so solid anymore.")
-	medical_record_text = "Patient's ass seems incredibly solid."
-	value = 0
-	mob_trait = TRAIT_IRONASS
-	icon = "hand-paper"
-
 /datum/quirk/dnr
 	name = "Do Not Revive"
 	desc = "For whatever reason, you cannot be revived in any way."
