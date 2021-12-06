@@ -5,17 +5,15 @@
 /obj/structure/window/reinforced/tinted/spawner/west
 	dir = WEST
 
-/obj/structure/window/reinforced/tinted/spawner/south
-	dir = SOUTH
+/obj/structure/window/reinforced/tinted/spawner/north
+	dir = NORTH
 
 //Frosted Rwindow Directional Spawners
-/obj/structure/window/reinforced/tinted/frosted/spawner/east
+/obj/structure/window/reinforced/tinted/frosted/east
 	dir = EAST
 
-/obj/structure/window/reinforced/tinted/frosted/spawner/west
+/obj/structure/window/reinforced/tinted/frosted/west
 	dir = WEST
 
-/obj/structure/window/reinforced/tinted/frosted/spawner/south
-	dir = SOUTH
-
- asdadsaKFMPOEFPOEFCRASH
+/obj/structure/window/reinforced/tinted/frosted/north
+	dir = NORTH
