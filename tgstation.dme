@@ -4041,6 +4041,7 @@
 #include "interface\menu.dm"
 #include "interface\stylesheet.dm"
 #include "interface\skin.dmf"
+#include "modular_harshlands\code\game\objects\structures\window.dm"
 #include "modular_skyrat\master_files\code\_globalvars\configuration.dm"
 #include "modular_skyrat\master_files\code\_globalvars\maint_loot_common.dm"
 #include "modular_skyrat\master_files\code\_globalvars\maint_loot_oddity.dm"
