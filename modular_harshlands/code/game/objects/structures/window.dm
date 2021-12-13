@@ -1,4 +1,4 @@
-//Tinted Rwindow Directional Spawners
+//Tinted Rwindow Directional Spawners thanks to Cheshify for these
 /obj/structure/window/reinforced/tinted/spawner/east
 	dir = EAST
 
